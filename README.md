@@ -8,7 +8,7 @@ MariaDB and phpMyAdmin are open-source tools. MariaDB is a database management s
 
 ### 🥈 Run
 
-- [http://localhost:8030/](http://localhost:8030/) username : `root` password : `root`
+- [http://localhost:80/](http://localhost:80/) username : `root` password : `root`
 
 ```shell
 docker-compose up -d
