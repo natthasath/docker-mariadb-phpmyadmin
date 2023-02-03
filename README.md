@@ -6,7 +6,7 @@ MariaDB and phpMyAdmin are open-source tools. MariaDB is a database management s
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
 ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
 
-### 🥈 Run
+### 🏆 Run
 
 - [http://localhost:80/](http://localhost:80/) username : `root` password : `root`
 
